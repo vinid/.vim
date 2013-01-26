@@ -1,11 +1,10 @@
-
+execute pathogen#infect()
 syntax on
 filetype plugin indent on
 set encoding=utf-8
 set autoindent
 set copyindent
 set number
-set textwidth=80
 set smartcase
 set title
 set expandtab
